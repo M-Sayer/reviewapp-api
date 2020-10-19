@@ -1,11 +1,15 @@
 Deployed to Heroku: https://boiling-taiga-27282.herokuapp.com
 
 React Native Client:
+
 Expo Link: https://expo.io/@sayer/projects/mobile
+
 Repo Link: https://github.com/M-Sayer/reviewapp-mobile
 
 React Web Client:
+
 Live Link: http://review-app-sage.vercel.app
+
 Repo Link: https://github.com/M-Sayer/reviewapp-web
 
 # Express Boilerplate!
